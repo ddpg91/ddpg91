@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ddpg91
 - 👀 I’m interested in Data Science and Analytics for Social Good
-- 🌱 I’m currently learning Football Analytics 
+- 🌱 I’m currently learning Football & Soccer Analytics 
 - 💞️ I’m looking to collaborate on useful coding and data science techniques to improve my knowledge of this interesting world
 - 📫 How to reach me: edopigna3@gmail.com
 
